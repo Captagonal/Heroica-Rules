@@ -1,0 +1,1 @@
+This ancient powerful gate is the primary defence for the kingdom of Ennon. It guards a mountain passage that leads to the neighboring lands. The gates were built by the original founders of Ennon but their names have long been lost to the pages of history.

@@ -1,0 +1,1 @@
+Seldaan Village is struggling like every other corner of the kingdom. However, secret alliances of heroes are emerging in the village, where they meet in secret locations to plan everything from smuggling messages and goods in and out of the area, to raising an army to fight evil.
