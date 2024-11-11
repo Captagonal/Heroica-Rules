@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "fffa779c8ec4ed82",
+    "type": "split",
+    "children": [
+      {
+        "id": "e468d34017f2d7a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46a34e7e531f2614",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Original Rulebook.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7c5b5f9433b0e10c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a32dd8385c747a5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9b3efdb71c4ec30",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "24b84dfcb6cda80d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "627638f522ab4106",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6e4dfd323f803f9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfc3dda792493c8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4b748beaeabd037",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Original Rulebook.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1ece0ed1100254df",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Original Rulebook.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eeb6178adccc5dfd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d3433ad0b74b33d2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Original Rulebook.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "46a34e7e531f2614",
+  "lastOpenFiles": [
+    "Items and Obstacles/Relics.md",
+    "attachments/Relics/Helmet of Protection.png",
+    "attachments/Relics/Chalice of Life.png",
+    "attachments/Relics/Blades of Bounty.png",
+    "attachments/Relics/Fang of Fury.png",
+    "attachments/Relics/Scepter of Summoning.png",
+    "Maps/Draida Bay.md",
+    "attachments/Relics/Crystal of Deflection.png",
+    "attachments/Relics/Scepter of Summoning.jpg",
+    "attachments/Relics",
+    "attachments/New folder",
+    "Items and Obstacles/Potions.md",
+    "Original Rulebook.md",
+    "Heroica Unlimited.md",
+    "Monsters/Beasts/Giant Vampire Bat.md",
+    "Items and Obstacles/Coffins.md",
+    "Items and Obstacles/Locked Doors.md",
+    "Items and Obstacles/Torches.md",
+    "Items and Obstacles/Treasure Chests.md",
+    "Items and Obstacles/Magic Buttons and Doors.md",
+    "Items and Obstacles/Weapons and Gold.md",
+    "Items and Obstacles/Rocks.md",
+    "Maps/Waldurk Cavern.md",
+    "Monsters/Beasts/Bat.md",
+    "Maps/Waldurk Forest.md",
+    "Maps/Barresh Settlements.md",
+    "Maps/Caverns of Nathuz.md",
+    "Maps/Gates of Elsruck.md",
+    "Maps/Ilrion.md",
+    "Maps/Seldaan Village.md",
+    "Maps/Drandora Port.md",
+    "Maps/Castle Fortaan.md",
+    "index.md",
+    "Charaters/Wizard.md",
+    "attachments/Maps/Waldurk Forest.jpg",
+    "attachments/Maps/Caverns of Nathuz.jpg",
+    "attachments/Maps/Castle Fortaan.jpg",
+    "attachments/Maps",
+    "Items and Obstacles/Untitled",
+    "Items and Obstacles",
+    "Monsters/Beasts",
+    "Monsters/Golems",
+    "Monsters/Goblins",
+    "Monsters",
+    "Charaters/Untitled.canvas",
+    "Templates"
+  ]
+}

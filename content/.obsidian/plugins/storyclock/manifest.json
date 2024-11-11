@@ -1,0 +1,11 @@
+{
+	"id": "storyclock",
+	"name": "Storyclock Viewer",
+	"version": "1.0.2",
+	"minAppVersion": "1.0.2",
+	"description": "Maps timing onto a storyclock. Inspired by Plot Devices Storyclock.",
+	"author": "Jonathan Fisher",
+	"authorUrl": "https://jonzfisher.com",
+	"fundingUrl": "https://www.buymeacoffee.com/jonzfisher",
+	"isDesktopOnly": false
+}

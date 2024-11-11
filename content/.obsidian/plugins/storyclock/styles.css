@@ -1,0 +1,20 @@
+/*
+
+This CSS file will be included with your plugin, and
+available in the app when your plugin is enabled.
+
+If your plugin does not need CSS, delete this file.
+
+*/
+.momentDefault {
+  stroke: none;
+}
+.momentHighlight {
+  stroke: hsl(var(--accent-h), var(--accent-s), var(--accent-l));
+}
+.description-text {
+  color: var(--color-red);
+}
+circle[clip-path="url(#small-dashes)"] {
+  stroke: var(--color-base-50);
+}
