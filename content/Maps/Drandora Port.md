@@ -1,0 +1,1 @@
+Drandora Port is the [[Thief|Thief's]] old stomping grounds. Once, the differences here between rich and poor were evident, but now the people of the city are coming together to defend the bastion of their world. Will they be able to stand united, or will some fall for the temptation of becoming spies for the dark armies to save their lives?
