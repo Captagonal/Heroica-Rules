@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Original Rulebook.md",
+                "file": "Maps/Waldurk Cavern.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Waldurk Cavern"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Original Rulebook.md",
+                "file": "Maps/Waldurk Cavern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Waldurk Cavern"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Original Rulebook.md",
+                "file": "Maps/Waldurk Cavern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Waldurk Cavern"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Original Rulebook.md"
-              }
+                "file": "Maps/Waldurk Cavern.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Waldurk Cavern"
             }
           }
         ]
@@ -145,48 +161,51 @@
       "command-palette:Open command palette": false,
       "fantasy-content-generator:Fantasy Generators": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "46a34e7e531f2614",
   "lastOpenFiles": [
+    "Items and Obstacles/Weapons and Gold (HU).md",
+    "Maps/Waldurk Cavern.md",
+    "Items and Obstacles/Weapons and Gold.md",
+    "Items and Obstacles/Treasure Chests.md",
+    "Items and Obstacles/Torches.md",
     "Items and Obstacles/Relics.md",
+    "Items and Obstacles/Rocks.md",
+    "Items and Obstacles/Potions.md",
+    "Items and Obstacles/Poison Crystal.md",
+    "Items and Obstacles/Magic Buttons and Doors.md",
+    "Items and Obstacles/Locked Doors.md",
+    "Items and Obstacles/Coffins.md",
+    "Charaters/Wizard.md",
+    "Charaters/Thief.md",
+    "Charaters/Sage.md",
+    "Charaters/Ranger.md",
+    "Charaters/Knight.md",
+    "Charaters/Druid.md",
+    "Charaters/Barbarian.md",
+    "Monsters/Dark Druid.md",
+    "Maps/Waldurk Forest.md",
+    "Maps/Caverns of Nathuz.md",
+    "Monsters/Beasts/Poison Spider.md",
+    "Config/Heroica Unlimted Expansion Notice.md",
+    "Heroica Unlimited.md",
+    "Monsters/Beasts/Spider.md",
+    "Monsters/attachements/Poison Spider_2.png",
+    "Config",
     "attachments/Relics/Helmet of Protection.png",
     "attachments/Relics/Chalice of Life.png",
     "attachments/Relics/Blades of Bounty.png",
     "attachments/Relics/Fang of Fury.png",
     "attachments/Relics/Scepter of Summoning.png",
-    "Maps/Draida Bay.md",
     "attachments/Relics/Crystal of Deflection.png",
     "attachments/Relics/Scepter of Summoning.jpg",
     "attachments/Relics",
     "attachments/New folder",
-    "Items and Obstacles/Potions.md",
-    "Original Rulebook.md",
-    "Heroica Unlimited.md",
-    "Monsters/Beasts/Giant Vampire Bat.md",
-    "Items and Obstacles/Coffins.md",
-    "Items and Obstacles/Locked Doors.md",
-    "Items and Obstacles/Torches.md",
-    "Items and Obstacles/Treasure Chests.md",
-    "Items and Obstacles/Magic Buttons and Doors.md",
-    "Items and Obstacles/Weapons and Gold.md",
-    "Items and Obstacles/Rocks.md",
-    "Maps/Waldurk Cavern.md",
-    "Monsters/Beasts/Bat.md",
-    "Maps/Waldurk Forest.md",
-    "Maps/Barresh Settlements.md",
-    "Maps/Caverns of Nathuz.md",
-    "Maps/Gates of Elsruck.md",
-    "Maps/Ilrion.md",
-    "Maps/Seldaan Village.md",
-    "Maps/Drandora Port.md",
-    "Maps/Castle Fortaan.md",
-    "index.md",
-    "Charaters/Wizard.md",
     "attachments/Maps/Waldurk Forest.jpg",
     "attachments/Maps/Caverns of Nathuz.jpg",
-    "attachments/Maps/Castle Fortaan.jpg",
     "attachments/Maps",
     "Items and Obstacles/Untitled",
     "Items and Obstacles",
@@ -194,7 +213,6 @@
     "Monsters/Golems",
     "Monsters/Goblins",
     "Monsters",
-    "Charaters/Untitled.canvas",
-    "Templates"
+    "Charaters/Untitled.canvas"
   ]
 }
